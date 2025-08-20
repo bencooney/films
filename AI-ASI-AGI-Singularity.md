@@ -1,6 +1,6 @@
 # Chronological List of AI Films (1921-2024)
 
-| Year | Title | Rotten Tomatoes Score (%) | Original Language | Spoiler-Free Summary | Link for More Details | Franchise |
+| Year | Title | Rotten Tomatoes Score (%) | Original Language | Summary | Link for More Details | Franchise |
 |------|-------|---------------------------|-------------------|----------------------|----------------------|-----------|
 | 1921 | The Mechanical Man | N/A | Silent (Italian) | A scientist builds a remote-controlled mechanical man, only for criminals to hijack it, leading to one of cinema's first robot-on-robot battles. | https://en.wikipedia.org/wiki/The_Mechanical_Man | |
 | 1927 | Metropolis | 97 | German | In a futuristic city sharply divided between thinkers and workers, the son of the city's master falls for a prophetic working-class figure. A mad inventor creates a robotic doppelgänger of her, representing one of cinema's first human-like androids. | https://en.wikipedia.org/wiki/Metropolis_(1927_film) | |
